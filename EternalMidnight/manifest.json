@@ -1,0 +1,12 @@
+{
+	"id": "eternalmidnight",
+	"version": "1.0.0",
+	"authors": ["JohnKlipi"],
+    "dependencies": [
+        {
+            "id": "polytopia",
+            "min": "2.13.0",
+            "max": "2.13.1"
+        }
+    ]
+}
